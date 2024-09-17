@@ -37,7 +37,8 @@
     content: ''; /* Conteúdo vazio para os pseudo-elementos */
     position: absolute; /* Posicionamento absoluto dentro do elemento principal */
     top: 50%; /* Posiciona os pseudo-elementos no centro vertical */
-    left: 50%; /* Posiciona os pseudo-elementos no centro
+    left: 50%; /* Posiciona os pseudo-elementos no centro*/
+}
 
     #coracao {
     width: 100px;

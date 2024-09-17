@@ -47,12 +47,6 @@
     clip-path: polygon(50% 0%, 75% 50%, 50% 100%, 25% 50%); /* Define a forma do coração */
 }
 
-#coracao {
-    width: 100px;
-    height: 100px;
-    background-color: #FF0000; /* Cor vermelha */
-    clip-path: polygon(50% 0%, 75% 50%, 50% 100%, 25% 50%); /* Define a forma do coração */
-}
 
 #ceu {
     width: 200px;
